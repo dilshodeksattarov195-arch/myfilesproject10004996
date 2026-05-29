@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterrncrypt",
+        "uuid": 29846104,
+        "checksum": "4pwrx"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
